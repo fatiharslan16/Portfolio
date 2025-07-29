@@ -3,7 +3,7 @@ import os
 from analyze import analyze_reviews_with_chatgpt
 
 # Set your SerpApi key
-SERPAPI_KEY = "ed845c7f43a20777ee0db35c059e49d1837a30ccb5f63ef8f5a6cba915f9b5ac"
+SERPAPI_KEY = ""
 
 # Function to fetch place IDs for a specific industry
 def fetch_place_ids(zip_code, radius, industry):

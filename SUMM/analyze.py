@@ -2,7 +2,7 @@ import openai
 import os
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key =""
 # Function to analyze reviews with ChatGPT
 def analyze_reviews_with_chatgpt(file_path):
     # Read reviews from the file
